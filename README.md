@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am the initial Repository for Russ Miller
+Intended to be used with SQL and related learning exercises.
+Address questions to: millereor@gmail.com
